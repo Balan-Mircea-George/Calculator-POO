@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Mircea\Desktop\ProiectPOO\OperatieDeBaza.h(21,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\OperatieDeBaza.h(38,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\OperatieDeBaza.h(65,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\OperatieDeBaza.h(117,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\OperatieDeBaza.h(133,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\OperatieDeBaza.h(147,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Integritate.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Integritate2.h(29,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Source.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Source.cpp(135,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Source.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Source.cpp(180,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mircea\Desktop\ProiectPOO\Integritate2.h(37): warning C4715: 'Integritate2::verificareIntegritateSemne': not all control paths return a value
+  ProiectPOO.vcxproj -> C:\Users\Mircea\Desktop\ProiectPOO\Debug\ProiectPOO.exe
